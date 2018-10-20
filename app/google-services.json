@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "389310399038",
+    "firebase_url": "https://algeriancitiesapp.firebaseio.com",
+    "project_id": "algeriancitiesapp",
+    "storage_bucket": "algeriancitiesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389310399038:android:7255d9b217f680ce",
+        "android_client_info": {
+          "package_name": "com.example.abl.algeriancitiesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389310399038-m55cs1dmkmrv1rkdi118ekh6olm6vdrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abl.algeriancitiesapp",
+            "certificate_hash": "b51fce6c8b1879eb434c53b04d75cca9c7d643a4"
+          }
+        },
+        {
+          "client_id": "389310399038-q02i45agj7j1jhbli0niqfr0ef0a1p5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo7gusoWt_QKp26PpjodFvzOIV6P-BDDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389310399038-q02i45agj7j1jhbli0niqfr0ef0a1p5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
